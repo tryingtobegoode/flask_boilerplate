@@ -23,4 +23,4 @@ beautifulsoup4==4.7.1
 nltk==3.4.5
 
 # Requests
-requests == 2.20.0
+requests == 2.31.0
